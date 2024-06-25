@@ -3,13 +3,13 @@ More deatiled and beginner friendly tutorial because official guide is not begin
 
 # Requirements
 Before we begin, there are things that you need:
-  - Basic Knowledge of Linux
-  - A kernel source (I use https://github.com/TrippinClix/Nethunter-Kernel-Tutorial)
+  - A kernel source (I use https://github.com/GXC2356/platform_kernel_xiaomi_vayu)
   - A working brain
-  - Common sense
-  - Internet connection
   - A computer with Linux installed (I use ubuntu 24.04)
   - A phone (why would you need this tutorial if you have no phone)
+  - Basic Knowledge of Linux
+  - Common sense
+  - Internet connection
 
 # Cloning your kernel
 Clone the kernel you want to use
